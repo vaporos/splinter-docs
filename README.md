@@ -1,3 +1,5 @@
+<img src="logos/svg/splinter_logos_fulllogo_gradientblack.svg" width="500">
+
 # Splinter Documentation
 
 Splinter is a privacy-focused platform for distributed applications that
